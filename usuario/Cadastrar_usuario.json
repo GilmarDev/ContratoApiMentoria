@@ -1,0 +1,14 @@
+{
+    "nome":"Emerson Rodrigues dos Santos",
+    "email":"emerson.rodrigues@wb.com",
+    "cpf":"11111111111",
+    "endereco": {
+    "estado":1,
+    "cidade":1,
+    "logradouro":"rua dos bobos",   
+    "numero":"",
+    "complemento":""},
+    "telefone_fixo": "1180807070",
+    "telefone_celular":"11940409090"
+
+}

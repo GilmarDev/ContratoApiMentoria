@@ -1,0 +1,75 @@
+									*Perfil de usuário 
+
+
+C – 
+		Api - unitário
+		Tela - unitário
+
+R -
+ 		Api - Lista/unitário
+		//Tela -  Lista/unitário			
+U – 
+		Api - unitário
+		Tela - unitário
+D - 
+   
+	Api – unitário(Exclusão Lógica)
+
+
+										*Usuário 
+C – 
+		Api - unitário
+		Tela - unitário
+R - 	
+		Api - Lista/unitário
+		Tela - Lista/unitário			
+U – 
+		Api – unitário
+		Tela - unitário
+D -
+  	 
+	Api – unitário(Exclusão Lógica)
+
+
+										*Vagas
+C – 
+		Api - unitário
+		Tela – unitário(adm, empresa) (Candidato)
+R - 
+	
+		Api - Lista/unitário/ listar todos os candidatos inscritos em uma vaga
+		Tela - Lista/unitário/ listar todos os candidatos inscritos em uma vaga
+		
+U – 
+		Api – unitário
+		Tela - unitário
+D -    
+	Api – unitário(Exclusão Lógica)
+	
+
+										*Inscrições
+C – 
+		Api - unitário
+		Tela – (Botão na tela da vaga unitária )
+R - 	
+		Api - Lista/unitário
+		Tela - Lista/unitário			
+U – 
+		Api – unitário
+		Tela - unitário
+D -    
+	Api – unitário(Exclusão Lógica)
+
+										*Login  (JWT)
+C – 
+		Api - unitário
+		Tela – unitário
+R - 	
+		Api - Lista/unitário
+		Tela - Lista/unitário			
+U – 
+		Api – unitário
+		Tela - unitário
+D -    
+	Api – unitário(Exclusão Lógica)
+

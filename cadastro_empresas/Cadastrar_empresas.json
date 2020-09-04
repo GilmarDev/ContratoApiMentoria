@@ -1,0 +1,15 @@
+{
+    
+"nome_empresa":"Tech Solution",
+"setor":"Solucoes em tecnologia",
+"matriz":"Sao Paulo",
+"endereco": {
+ "estado":1,
+ "cidade":1,
+ "logradouro":"Paulo Aguiar",   
+ "numero":"",
+ "complemento":" "},
+"telefone":"56624020",
+ "descricao_empresa":"Tech Solutio traz uma gama de soluções e serviços que visam otimizar o desempenho, produtividade, agilidade e competitividade do negócio de nossos clientes",
+  "site":"www.tech.com"
+}
